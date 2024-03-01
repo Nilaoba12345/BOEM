@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Wei"
   given-names: "Ziran"
-title: "My Research Software"
+title: "Global Database for Naturally Occurring Radionuclides associated with offshore Oil and Gas Production"
 version: 2.0.4
 doi: 10.5281/zenodo.10729910
 date-released: 2024-03-01
